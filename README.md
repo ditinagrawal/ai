@@ -1,10 +1,10 @@
-# ditin-ai
+# easyai
 
 ## How to use?
 
 ```js
 // Import AI from package
-import AI from "ditin-ai";
+import AI from "easyai";
 
 // Initiate AI
 const ai = new AI()
